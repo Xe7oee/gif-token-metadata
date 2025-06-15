@@ -1,0 +1,1 @@
+# gif-token-metadata
