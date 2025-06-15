@@ -1,0 +1,32 @@
+{
+    "name": "GIF Token",
+    "symbol": "GIF",
+    "description": "GIF Token - A unique token on Solana",
+    "image": "https://raw.githubusercontent.com/Xe7oee/gif-token-metadata/main/images/pfp.gif",
+    "external_url": "https://github.com/Xe7oee/gif-token-metadata",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Utility Token"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Xe7oee/gif-token-metadata/main/images/pfp.gif",
+                "type": "image/gif"
+            },
+            {
+                "uri": "https://raw.githubusercontent.com/Xe7oee/gif-token-metadata/main/images/banner.gif",
+                "type": "image/gif"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "EbTuVoFHSHRzHwQBeUHWtP5CnGGrPPukS5pdGPUXDF8",
+                "share": 100
+            }
+        ]
+    }
+} 
